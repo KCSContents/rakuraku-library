@@ -4,7 +4,7 @@
 * 「Advanced custom fields」を併用するプラグインです。
   
 ## インストール方法  
-1.「rakuraku-library」というフォルダを作成し、ダウンロードしてきたファイルを入れる。　　
+1.「rakuraku-library」というフォルダを作成し、ダウンロードしてきたファイルを入れる。  
 2.その後、「wp-content」の「plugins」にアップロードする。  
 3.Wordpressの管理画面の「プラグイン」から「rakuraku-library」を有効化する。  
     
